@@ -15,7 +15,7 @@ Serml is a community based library/collection of Substrate Blockchain Developmen
 - [serp-stp258](./serp-stp258)
     - Implements a Multicurrency Elastic Stablecoin Setheum Tokenization Protocol (STP) that provides multiple stable currencies under one umbrella and a Reserve Asset that Algorithmically through other SERP/SERML pallets stabilizes the stable-currencies. Developed for the SERP (Setheum Elastic Reserve Protocol).
 
-# Projects using ORML
+# Projects using SERML
 
 _In Order Of Date_
 
