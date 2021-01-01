@@ -19,6 +19,6 @@ Serml is a community based library/collection of Substrate Blockchain Developmen
 
 _In Order Of Date_
 
-- [Setheum Network](https://github.com/SetheumLabs/Setheum)
-- [SERML](https://github.com/SetheumLabs/SERML)
+- [Setheum Network](https://github.com/Setheum-Labs/Setheum)
+- [SERML](https://github.com/Setheum-Labs/SERML)
 - [_Add your project here_](https://github.com/Setheum-Labs/SERML/edit/main/README.md)
