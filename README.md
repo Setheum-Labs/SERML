@@ -4,7 +4,7 @@ Serml is a community based library/collection of Substrate Blockchain Developmen
 
 <div align="center">
 
-[![Setheum version](https://img.shields.io/badge/Setheum-0.1.0-brightgreen?logo=Parity%20Substrate)](https://setheum.xyz/)
+[![Setheum version](https://img.shields.io/badge/Setheum-0.2.1-brightgreen?logo=Parity%20Substrate)](https://setheum.xyz/)
 [![Substrate version](https://img.shields.io/badge/Substrate-2.0.0-brightgreen?logo=Parity%20Substrate)](https://substrate.dev/)
 [![License](https://img.shields.io/github/license/Setheum-Labs/SERML?color=green)](https://github.com/Setheum-Labs/SERML/blob/master/LICENSE)
  <br />
