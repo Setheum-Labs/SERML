@@ -1,0 +1,10 @@
+/home/iamkhalifaMBA/Documents/GitHub/SERML/fetch-price/target/debug/deps/futures_channel-4922826e10605522.rmeta: /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/lib.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/lock.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/mod.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/queue.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/sink_impl.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/oneshot.rs
+
+/home/iamkhalifaMBA/Documents/GitHub/SERML/fetch-price/target/debug/deps/futures_channel-4922826e10605522.d: /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/lib.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/lock.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/mod.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/queue.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/sink_impl.rs /home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/oneshot.rs
+
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/lib.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/lock.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/mod.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/queue.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/mpsc/sink_impl.rs:
+/home/iamkhalifaMBA/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.9/src/oneshot.rs:
