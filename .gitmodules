@@ -1,0 +1,15 @@
+[submodule "price"]
+	path = price
+	url = https://github.com/Setheum-Labs/price
+[submodule "stp258"]
+	path = stp258
+	url = https://github.com/Setheum-Labs/stp258
+[submodule "serp-tes"]
+	path = serp-tes
+	url = https://github.com/Setheum-Labs/serp-tes
+[submodule "serp-market"]
+	path = serp-market
+	url = https://github.com/Setheum-Labs/serp-market
+[submodule "storage-adapters"]
+	path = storage-adapters
+	url = https://github.com/Setheum-Labs/storage-adapters
