@@ -1,3 +1,6 @@
+[submodule "fetch-price"]
+	path = fetch-price
+	url = https://github.com/Setheum-Labs/fetch-price
 [submodule "price"]
 	path = price
 	url = https://github.com/Setheum-Labs/price
