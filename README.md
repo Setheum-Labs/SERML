@@ -2,19 +2,6 @@
 Substrate Ecosystem Runtime Module Library (SERML) 🚀
 Serml is a community based library/collection of Substrate Blockchain Development Runtime Modules maintained by Setheum Labs for Subatrate based Blockchain projects like Setheum, Polkadot, Kusama, et al.
 
-<div align="center">
-[![License](https://img.shields.io/github/license/Setheum-Labs/SERML?color=green)](https://github.com/Setheum-Labs/SERML/blob/master/LICENSE)
- <br />
-[![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FSetheum)](https://twitter.com/Setheum)
-[![Riot.im](https://img.shields.io/badge/Riot.im-gray?logo=riot)](https://matrix.to/#/+setheum-community:matrix.org)
-[![Discord](https://img.shields.io/badge/Discord-gray?logo=discord)](https://discord.gg/HDdQJy9v)
-[![Telegram](https://img.shields.io/badge/Telegram-gray?logo=telegram)](https://t.me/SetheumNetwork)
-[![Medium](https://img.shields.io/badge/Medium-gray?logo=medium)](https://medium.com/setheum-labs)
-[![Setheum](https://img.shields.io/badge/Setheum-blue?logo=Parity%20Substrate)](https://medium.com/setheum-labs)
-
-</div>
-
-
 ## Runtime Modules Overview and Links
 
 - [fetch-price](./fetch-price)
