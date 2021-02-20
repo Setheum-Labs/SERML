@@ -9,7 +9,7 @@ Serml is a community based library/collection of Substrate Blockchain Developmen
 - [price](https://github.com/Setheum-Labs/price)
 	- Implements a simple price feed.
 - [serp-market](https://github.com/Setheum-Labs/serp-market)
-    - Implements a Multicurrency Elastic Stablecoin Auction Market that buys or auctions the Reserve Asset/ Native Currency for multiple stable-currencies/stablecoins that will be contracted or expanded by the [serp-tes](https://github.com/Setheum-Labs/serp-tes) pallet. Developed for the SERP (Setheum Elastic Reserve Protocol).
+    - Implements a Multicurrency Elastic Stablecoin Auction Market that buys or auctions the Reserve Asset/ Native Currency for multiple stable-currencies/stablecoins that will be contracted or expanded by the `serp-tes` pallet. Developed for the SERP (Setheum Elastic Reserve Protocol).
 - [serp-tes](https://github.com/Setheum-Labs/serp-tes)
 	- Implements a Multicurrency Elastic Stablecoin Token Elasticity of Supply (TES) System that Elastically Algorithmically Contracts and Expands stablecoin/stable-currency supply with a native currency as Reserve Asset. Developed for the SERP (Setheum Elastic Reserve Protocol).
 - [storage-adapters](https://github.com/Setheum-Labs/storage-adapters)
