@@ -10,6 +10,9 @@
 [submodule "serp-tes"]
 	path = serp-tes
 	url = https://github.com/Setheum-Labs/price
+[submodule "storage-adapters"]
+	path = storage-adapters
+	url = https://github.com/Setheum-Labs/storage-adapters
 [submodule "stp258"]
 	path = stp258
 	url = https://github.com/Setheum-Labs/stp258
