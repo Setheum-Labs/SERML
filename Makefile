@@ -34,7 +34,7 @@ format:
 
 
 # Standalone development workflow targets
-# Running those inside existing workspace will break due to Cargo unable to support nested worksapce
+# Running those inside existing workspace will break due to Cargo unable to support nested workspace
 .PHONY: Cargo.toml
 Cargo.toml: Cargo.dev.toml
 	cp Cargo.dev.toml Cargo.toml
