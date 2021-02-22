@@ -7,3 +7,6 @@
 [submodule "serp-market"]
 	path = serp-market
 	url = https://github.com/Setheum-Labs/serp-market
+[submodule "price"]
+	path = price
+	url = https://github.com/Setheum-Labs/price
