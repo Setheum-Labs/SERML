@@ -10,3 +10,6 @@
 [submodule "price"]
 	path = price
 	url = https://github.com/Setheum-Labs/price
+[submodule "storage-adapters"]
+	path = storage-adapters
+	url = https://github.com/Setheum-Labs/storage-adapters
