@@ -2,7 +2,7 @@
 Substrate Ecosystem Runtime Module Library (SERML) 🚀
 Serml is a community based library/collection of Substrate Blockchain Development Runtime Modules maintained by Setheum Labs for Subatrate based Blockchain projects like Setheum, Polkadot, Kusama, et al.
 
-## Runtime Modules Overview and Links
+## Runtime Modules Overview
 
 - [fetch-price](./fetch-price)
     - Implements a simple  price fetch that fetches and makes price feed available on chain.
