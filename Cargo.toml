@@ -2,7 +2,6 @@ cargo-features = ["resolver"]
 
 [workspace]
 members = [
-	"fetch-price",
 	"price",
 	"serp-market",
 	"serp-tes",
