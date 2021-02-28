@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: fedora-33
+    runs-on: [self-hosted, linux]
     env:
       SCCACHE_CACHE_SIZE: "50G"
     steps:
