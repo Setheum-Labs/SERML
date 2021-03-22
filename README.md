@@ -4,8 +4,6 @@ Serml is a community based library/collection of Substrate Blockchain Developmen
 
 ## Runtime Modules Overview
 
-- [fetch-price](https://github.com/Setheum-Labs/fetch-price)
-    - Implements a simple  price fetch that fetches and makes price feed available on chain.
 - [price](./price)
 	- Implements a simple price feed.
 - [serp-market](./serp-market)
