@@ -30,14 +30,6 @@ Checkout [serml-workshop](https://github.com/Setheum-Labs/serml-workshop) for ex
 - `make test`
 	- Run tests.
 
-### `Cargo.toml`
-
-ORML use `Cargo.dev.toml` to avoid workspace conflicts with project cargo config. To use cargo commands in SERML workspace, create `Cargo.toml` by running
-
-- `make Cargo.toml`, or
-- `cp Cargo.dev.toml Cargo.toml`, or
-- change the command to `make dev-check` etc which does the copy. (For the full list of `make` commands, check the [Makefile](./Makefile))
-
 # Projects using SERML
 
 _In Alphabetical Order_
